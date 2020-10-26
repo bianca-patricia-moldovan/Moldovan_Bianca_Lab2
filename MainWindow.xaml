@@ -66,6 +66,6 @@ Width="131" Margin="0,26,0,0">
                     <MenuItem Header="Filled"/>
                 </MenuItem>
             </MenuItem>
-        </Menu>
+        </Menu> 
     </Grid>
 </Window>
